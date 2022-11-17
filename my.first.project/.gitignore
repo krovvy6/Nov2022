@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 /target/
 /test-output/
 /.classpath
 /.project
+=======
+/test-output/
+/target/
+>>>>>>> refs/heads/develop
